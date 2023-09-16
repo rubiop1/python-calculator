@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29379b85-0e0c-41b7-9e58-c6db01ffb683" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VU9wbuov9UUOTk9ezCkcKY1te4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.test_operations">
+    <configuration name="Operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Paul\Documents\Pycharm Workspace\Klever_API\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Paul\Documents\Pycharm Workspace\python-calculator\Calculator\Operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Paul\Documents\Pycharm Workspace\Klever_API\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator/test_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_operations" />
+        <item itemvalue="Python.Operations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29379b85-0e0c-41b7-9e58-c6db01ffb683" name="Default Changelist" comment="" />
+      <created>1694880030801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694880030801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-977" y="0" key="#Calculator" timestamp="1694881189845">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-977" y="0" key="#Calculator/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694881189845" />
+    <state x="-801" y="260" key="#Notifications" timestamp="1694880440536">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-801" y="260" key="#Notifications/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694880440536" />
+    <state x="-977" y="0" key="#test_operations" timestamp="1694882083964">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-977" y="0" key="#test_operations/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882083964" />
+    <state x="-819" y="124" key="EnvironmentVariablesDialog" timestamp="1694881162679">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-819" y="124" key="EnvironmentVariablesDialog/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694881162679" />
+    <state width="664" height="181" key="GridCell.Tab.0.bottom" timestamp="1694882431928">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
+    <state width="664" height="181" key="GridCell.Tab.0.center" timestamp="1694882431928">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="181" key="GridCell.Tab.0.center/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
+    <state width="664" height="181" key="GridCell.Tab.0.left" timestamp="1694882431928">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="181" key="GridCell.Tab.0.left/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
+    <state width="664" height="181" key="GridCell.Tab.0.right" timestamp="1694882431928">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state width="664" height="181" key="GridCell.Tab.0.right/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
+    <state x="-898" y="299" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1694880084574">
+      <screen x="-1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="-898" y="299" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694880084574" />
+  </component>
+</project>
