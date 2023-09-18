@@ -44,8 +44,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.test_operations">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\pycharm\python-calculator\Calculate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_operations (1)">
     <configuration name="Operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-calculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +73,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\workspace\pycharm\python-calculator\Calculate\calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_operations (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Calculate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculate/test_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-calculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator/test_operations.py" />
+      <option name="SCRIPT_NAME" value="C:\workspace\pycharm\python-calculator\Calculate\test_operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +138,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_operations (1)" />
         <item itemvalue="Python.test_operations" />
+        <item itemvalue="Python.calculator" />
         <item itemvalue="Python.Operations" />
       </list>
     </recent_temporary>
@@ -118,6 +168,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-977" y="0" key="#Calculator" timestamp="1694881189845">
@@ -136,22 +187,50 @@
       <screen x="-1366" y="0" width="1366" height="738" />
     </state>
     <state x="-819" y="124" key="EnvironmentVariablesDialog/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694881162679" />
-    <state width="664" height="181" key="GridCell.Tab.0.bottom" timestamp="1694882431928">
-      <screen x="-1366" y="0" width="1366" height="738" />
+    <state x="-903" y="119" key="FileChooserDialogImpl" timestamp="1694999880540">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="664" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
-    <state width="664" height="181" key="GridCell.Tab.0.center" timestamp="1694882431928">
-      <screen x="-1366" y="0" width="1366" height="738" />
+    <state x="-903" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1694999880540" />
+    <state width="611" height="179" key="GridCell.Tab.0.bottom" timestamp="1695006246110">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="664" height="181" key="GridCell.Tab.0.center/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
-    <state width="664" height="181" key="GridCell.Tab.0.left" timestamp="1694882431928">
-      <screen x="-1366" y="0" width="1366" height="738" />
+    <state width="611" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695006246110" />
+    <state width="664" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882643498" />
+    <state width="611" height="179" key="GridCell.Tab.0.center" timestamp="1695006246110">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="664" height="181" key="GridCell.Tab.0.left/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
-    <state width="664" height="181" key="GridCell.Tab.0.right" timestamp="1694882431928">
-      <screen x="-1366" y="0" width="1366" height="738" />
+    <state width="611" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695006246110" />
+    <state width="664" height="181" key="GridCell.Tab.0.center/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882643498" />
+    <state width="611" height="179" key="GridCell.Tab.0.left" timestamp="1695006246110">
+      <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="664" height="181" key="GridCell.Tab.0.right/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882431928" />
+    <state width="611" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695006246110" />
+    <state width="664" height="181" key="GridCell.Tab.0.left/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882643498" />
+    <state width="611" height="179" key="GridCell.Tab.0.right" timestamp="1695006246110">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="611" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695006246110" />
+    <state width="664" height="181" key="GridCell.Tab.0.right/0.0.1366.738/-1366.0.1366.738@-1366.0.1366.738" timestamp="1694882643498" />
+    <state width="672" height="223" key="GridCell.Tab.1.bottom" timestamp="1695003661644">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="672" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695003661644" />
+    <state width="672" height="223" key="GridCell.Tab.1.center" timestamp="1695003661644">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="672" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695003661644" />
+    <state width="672" height="223" key="GridCell.Tab.1.left" timestamp="1695003661644">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="672" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695003661644" />
+    <state width="672" height="223" key="GridCell.Tab.1.right" timestamp="1695003661644">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="672" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1695003661644" />
+    <state x="-1182" y="9" key="SettingsEditor" timestamp="1694999888307">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1182" y="9" key="SettingsEditor/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1694999888307" />
     <state x="-898" y="299" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1694880084574">
       <screen x="-1366" y="0" width="1366" height="738" />
     </state>
